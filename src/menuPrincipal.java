@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class menuPrincipal {
     public static void main (String[] args) {
         //Primer objeto
+        //hola a todos
         Genero rock = new Genero("rock", "120bpm", 1950, "EEUU", "Chuck Berry");
         //segundo objeto
         Genero salsa = new Genero("Pop", "90bpm", 2001, "Colombia", "Maelo Ruiz");
