@@ -1,2 +1,3 @@
 public class musicanueba {
-}dasdsadsaaaaaaaaaaaaaaaaa
+    public static void ;
+}
